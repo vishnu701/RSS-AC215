@@ -1,0 +1,20 @@
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Formaggio</title>
+    <link>Your Website Link (GoDaddy)</link>
+    <description>Description of your podcast</description>
+    <language>en-us</language>
+    <item>
+      <title>Episode 1</title>
+      <link>https://drive.google.com/uc?export=download&id=19EW0uVfivxYxeKI3Ioh1ZYdLUO3Tzcuc</link>
+      <description>Here we'll be talking about cheese</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=19EW0uVfivxYxeKI3Ioh1ZYdLUO3Tzcuc" length="1,992,294.4" type="audio/mpeg"/>
+      <guid>Unique Episode ID</guid>
+      <pubDate>Publication Date (e.g., Tue, 10 Sep 2024 00:00:00 +0000)</pubDate>
+    </item>
+  </channel>
+</rss>
+https://drive.google.com/uc?export=download&id=1m-YMSTeCO3vuQai48xTAa3-JM53NC1ns
